@@ -1,6 +1,8 @@
 node-sonar-scanner
 ==================
 
+Forked to use sonar-scanner-cli-4.7.0.2747
+
 Wrap [SonarQube Scanner](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner) as a node module.
 
 # Installation
